@@ -1,4 +1,6 @@
-Este documento foi elaborado para a preparação do ambiente para executar a aplicação de para estudo das funcionalidades de uma rede Blockchain.
+# Resumo
+
+Este repositório foi elaborado e documentado para orientar a preparação do ambiente de execução da aplicação que simula as funcionalidades de uma rede Blockchain.
 
 
 # Parte 1 - Blockchain
